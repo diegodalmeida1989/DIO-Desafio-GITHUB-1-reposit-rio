@@ -2,5 +2,5 @@
 
 Desafio Projeto GIT/GitHub
 
-## Links  Úteis
+## Li)nks  Úteis
 [Sintaxe Básica Markdown](https://markdown.net.br/sintaxe-basica/)
