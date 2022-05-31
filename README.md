@@ -1,5 +1,4 @@
-# DIO-Desafio-GITHUB-1-reposit-
-
+# DIO-Desafio-GITHUB-1-repositório
 Desafio Projeto GIT/GitHub
 
 ## Li)nks  Úteis
